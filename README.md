@@ -268,3 +268,5 @@ This project is licensed under the **Apache 2.0 License**. See [LICENSE](LICENSE
 ---
 
 > Built with ❤️ using Llama 3.2, Multi-Agent Systems, and Gradio.
+>
+> TAREK ABUALKHER
